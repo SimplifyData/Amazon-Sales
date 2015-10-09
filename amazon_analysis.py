@@ -10,6 +10,11 @@ def exact_match(phrase,word):
 
 
 def sale_frequency():
+    '''
+    This function is written for Data Nitro.
+    It takes daily sales and calculates various sale frequencies
+    :return:
+    '''
 
     work_book = all_sheets()
 
